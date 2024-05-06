@@ -64,7 +64,7 @@ async function getPersonajeFruta(body) {
 * Obtiene un personaje por {zona}
 */
 async function getPersonajesZona(body) {
-    let personaje = await Personaje.find({ "origen.zona": body.origen.zona });
+    let personaje = await Personaje.find({ "origen.zona": body.zona });
     return personaje;
 }
 
