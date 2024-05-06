@@ -1,0 +1,151 @@
+* {
+    font-family: "Nunito Sans", sans-serif;
+    margin: auto;
+    color: rgb(36, 51, 66);
+}
+
+h1 {
+    margin: auto;
+    padding-top: 1em;
+    font-size: 5rem;
+    font-family: "Paytone One", sans-serif;
+    color: rgb(84, 12, 12);
+    text-shadow: 4px 4px 3px rgba(0, 0, 0, 0.2);
+    text-align: left;
+    padding-left: 2em;
+}
+
+header {
+    background: url("../img/banner.jpg") no-repeat center -10em;
+    height: 30vh;
+    background-size: cover;
+}
+
+main {
+    background-color: rgb(216, 216, 216);
+}
+
+
+#p-header-1,
+#p-header-2 {
+    text-align: center;
+    padding-top: 1em;
+}
+
+#p-header-1 {
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+#p-header-2{
+    font-size: 1.2rem;
+}
+
+#p-header-2 span {
+    display: block;
+    padding-top: 1em;
+    font-size: 1rem;
+}
+
+
+
+
+
+
+h2 {
+    font-family: "Paytone One", sans-serif;
+    text-align: center;
+    margin: 1em 0em;
+    font-size: 2rem;
+}
+#section-personajes h2{
+    color: rgb(25, 78, 140);
+}
+#section-frutas h2{
+    color: rgb(141, 80, 49);
+}
+#section-personajes h3{
+    background-color: rgb(122, 151, 184);
+}
+#section-frutas h3{
+    background-color: rgb(207, 170, 151);
+}
+
+h3 {
+    background-color: grey;
+    padding: 0.3em 1em;
+    border-radius: 0.3em;
+}
+
+
+
+
+
+
+#contenedor{
+    padding: 10px;
+
+    border-radius: 0.5em;
+    list-style-type: none;
+    
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    list-style: none;
+    display: block;
+}
+
+ul li p{
+    font-style: italic;
+    padding-top: 0.3em;
+    color: #7d7d7d;
+}
+
+#lista-personajes div, #lista-frutas div {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px;
+
+    border-radius: 0.5em;
+    background: #cdcdcd;
+    list-style-type: none;
+    
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+ul {
+    padding: 0;
+    text-align: center;
+    font-size: 0.8rem;
+}
+
+
+
+
+
+
+
+
+
+footer ul {
+    display: flex;
+    justify-content: space-between;
+    padding: 0em 20em;
+    background-color: #a5a5a5;
+    height: 10vh;
+}
+
+#left,
+#middle,
+#right {
+    list-style-type: none;
+    text-align: center;
+    font-weight: 600;
+}
+#middle{
+    font-size: 1.2rem;
+}

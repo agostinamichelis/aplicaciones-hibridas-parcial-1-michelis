@@ -1,0 +1,406 @@
+[
+    {
+        "nombre": "Luffy",
+        "apellido": "Monkey D.",
+        "pronunciacion": "Monkī Dī Rufi",
+        "nombre_japones": "モンキー･D･ルフィ",
+
+        "descripcion": "Monkey D. Luffy (モンキー・Ｄ・ルフィ Monkī Dī Rufi), más conocido como Luffy Sombrero de Paja (麦わらのルフィ Mugiwara no Rufi), es el protagonista principal de la serie de manga y anime One Piece. Es el capitán y fundador de los Piratas de Sombrero de Paja así como un de los Cuatro Emperadores que gobiernan los mares del Nuevo Mundo. Comió una fruta del diablo llamada fruta Gomu Gomu, que le convirtió en un hombre de goma.",
+
+        "edad_actual": 19,
+        "fecha_de_nacimiento": "5 de Mayo",
+        "origen": {
+            "zona": "East Blue",
+            "aldea": "Villa Foosha"
+        },
+        "fruta_del_diablo": "Gomu Gomu No Mi",
+        "raza": "Humano",
+
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/a/af/Monkey_D._Luffy_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20200616015904&path-prefix=ess",
+
+        "tripulacion": "Piratas de Sombrero de Paja (麦わらの海賊団 Mugiwara no Kaizoku-dan)",
+        "ocupacion": [
+            "Pirata",
+            "Capitán"
+        ],
+        "rol_actual": "Capitán de la Tripulación de Piratas de Sombrero de Paja",
+        "recompensa_actual": 3000000000,
+        "apodos": [
+            "Lucy (ルｰシｰ Rūshī)",
+            "Luffy-tarou (ルフィ太郎 Rufitarō)",
+            "Luffy-no-Umi (ルフィの海 Rufinofumi)"
+        ],
+        "titulos": [
+            "Sombrero de Paja (麦わら Mugiwara)",
+            "El Quinto Emperador (５番目の皇帝 Gobanme no Kōtei)",
+            "Joy Boy (ジョイボーイ Joi Bōi)"
+        ],
+        "afiliaciones": [
+            "Familia Dadan",
+            "Piratas de Sombrero de Paja",
+            "Gran Flota de Sombrero de Paja",
+            "Alianza Ninja-Pirata-Mink-Samurái",
+            "Los Cuatro Emperadores"
+        ]
+    },
+    {
+
+        "nombre": "Zoro",
+        "apellido": "Roronoa",
+        "pronunciacion": "Roronoa Zoro",
+        "nombre_japones": "ロロノア・ゾロ",
+
+        "descripcion": "Roronoa Zoro (ロロノア・ ゾロ Roronoa Zoro), conocido como El Cazador de Piratas (海賊狩り Kaizoku Gari) es el primer pirata que se unió a Monkey D. Luffy, y el principal combatiente de los Piratas de Sombrero de Paja. Es uno de sus dos espadachines y oficiales principales de la Gran Flota de Sombrero de Paja.",
+
+        "edad_actual": 21,
+        "fecha_de_nacimiento": "11 de Noviembre",
+        "origen": {
+            "zona": "East Blue",
+            "aldea": "Shimotsuki Village"
+        },
+        "raza": "Humano",
+
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/5/56/Roronoa_Zoro_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20190826160007&path-prefix=es",
+
+        "tripulacion": "Piratas de Sombrero de Paja (麦わらの海賊団 Mugiwara no Kaizoku-dan)",
+        "ocupacion": [
+            "Pirata",
+            "Espadachín"
+        ],
+        "rol_actual": "Espadachín de la Tripulación de Piratas de Sombrero de Paja",
+        "recompensa_actual": 1111000000,
+        "apodos": ["Zoro-juurou (ゾロ十郎 Zorojūrō)"],
+        "titulos": ["El Cazador de Piratas (海賊狩り Kaizoku-Gari)"],
+        "afiliaciones": [
+            "Piratas de Sombrero de Paja",
+            "Gran Flota de Sombrero de Paja",
+            "Alianza Ninja-Pirata-Mink-Samurái"
+        ]
+    },
+    {
+
+        "nombre": "Nami",
+        "pronunciacion": "Nami",
+        "nombre_japones": "ナミ",
+
+        "descripcion": "Nami (ナミ Nami), apodada Gata Ladrona (泥棒猫 Dorobō Neko), es una pirata y la navegante de los Piratas del Sombrero de Paja, así como una de los oficiales principales de la Gran Flota de Sombrero de Paja. Es el tercer miembro de la tripulación y la segunda en unirse, haciéndolo oficialmente durante el arco de Arlong Park.",
+
+        "edad_actual": 20,
+        "fecha_de_nacimiento": "3 de Julio",
+        "origen": {
+            "zona": "East Blue",
+            "aldea": "Reino de Oykot"
+        },
+        "raza": "Humano",
+
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/0/0c/Nami_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20191125191158&path-prefix=es",
+
+        "tripulacion": "Piratas de Sombrero de Paja (麦わらの海賊団 Mugiwara no Kaizoku-dan)",
+        "ocupacion": [
+            "Pirata",
+            "Navegante"
+        ],
+        "rol_actual": "Navegante de la Tripulación de Piratas de Sombrero de Paja",
+        "recompensa_actual": 366000000,
+        "apodos": [
+            "Namizo (ナミゾウ Namizō)",
+            "O-Nami (おナミ Onami)"
+        ],
+        "titulos": [
+            "La Gata Ladrona (泥棒猫 Dorobō Neko)"
+        ],
+        "afiliaciones": [
+            "Piratas de Sombrero de Paja",
+            "Gran Flota de Sombrero de Paja",
+            "Alianza Ninja-Pirata-Mink-Samurái",
+            "Piratas de Arlong"
+        ]
+    },
+    {
+
+        "nombre": "Usopp",
+        "pronunciacion": "Usoppu",
+        "nombre_japones": "ウソップ",
+        
+        "descripcion": "Usopp (ウソップ Usoppu) es el francotirador de los Piratas de Sombrero de Paja y uno de los oficiales principales de la Gran Flota de Sombrero de Paja. Es el cuarto miembro de la tripulación y el tercero en unirse oficialmente. A pesar de abandonar la banda en el arco de Water 7, se volvió a unir en el arco del regreso a Water 7.",
+
+        "edad_actual": 19,
+        "fecha_de_nacimiento": "1 de Abril",
+        "origen": {
+            "zona": "East Blue",
+            "aldea": "Syrup Village"
+        },
+        "raza": "Humano",
+
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/9/92/Usopp_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20160919181926&path-prefix=es",
+
+        "tripulacion": "Piratas de Sombrero de Paja (麦わらの海賊団 Mugiwara no Kaizoku-dan)",
+        "ocupacion": [
+            "Pirata",
+            "Francotirador"
+        ],
+        "rol_actual": "Francotirador de la Tripulación de Piratas de Sombrero de Paja",
+        "recompensa_actual": 500000000,
+        "apodos": [
+            "Sogeking (そげキング Sogekingu)",
+            "Usohachi (ウソ八 Usohachi)"
+        ],
+        "titulos": [
+            "Capitán Usopp (キャプテンウソップ Kyaputen Usopp)",
+            "God Usopp (ゴッドウソップ Goddo Usoppu)",
+            "Rey de los Tiradores (狙撃の王様 Sogeki no Ō-sama)"
+        ],
+        "afiliaciones": [  
+            "Piratas de Usopp",
+            "Piratas de Sombrero de Paja",
+            "Gran Flota de Sombrero de Paja",
+            "Alianza Ninja-Pirata-Mink-Samurái"
+        ]
+    },
+    {
+
+        "nombre": "Sanji",
+        "apellido": "Vinsmoke",
+        "pronunciacion": "Vinsmoke Sanji",
+        "nombre_japones": "ヴィンスモーク・サンジ",
+
+        "descripcion": "Sanji (サンジ Sanji), conocido como Pierna Negra (黒脚 Kuro Ashi) y Vinsmoke Sanji (ヴィンスモーク・サンジ Vinsumōku Sanji), es el cocinero de los Piratas de Sombrero de Paja, así como uno de los oficiales principales de la Gran Flota de Sombrero de Paja. Es el quinto miembro de la tripulación, y el cuarto en unirse. Él nació en el North Blue, siendo el primer tripulante en no ser originario del East Blue.",
+
+        "edad_actual": 21,
+        "fecha_de_nacimiento": "2 de Marzo",
+        "origen": {
+            "zona":"North Blue",
+            "aldea": "Reino de Germa"
+        },
+        "raza": "Humano",
+
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/6/66/Sanji_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20191029181107&path-prefix=es",
+
+        "tripulacion": "Piratas de Sombrero de Paja (麦わらの海賊団 Mugiwara no Kaizoku-dan)",
+        "ocupacion": [
+            "Pirata",
+            "Cocinero"
+        ],
+        "rol_actual": "Cocinero de la Tripulación de Piratas de Sombrero de Paja",
+        "recompensa_actual": 1032000000,
+        "apodos": [
+            "Mr. Prince (Mr. プリンス Misutā Purinsu)",
+            "Sangoro (サン五郎 Sangorō)",
+            "O-Soba Mask (おそばマスク O-Soba Masuku)"
+        ],
+        "titulos": [
+            "Black Leg (黒足 Kuro Ashi)"
+        ],
+        "afiliaciones": [
+            "Reino de Germa",
+            "Familia Vinsmoke",
+            "Baratie",
+            "Piratas de Sombrero de Paja",
+            "Gran Flota de Sombrero de Paja",
+            "Alianza Ninja-Pirata-Mink-Samurái"
+        ]
+    },
+    {
+
+        "nombre": "Chopper",
+        "apellido": "Tony Tony",
+        "pronunciacion": "Tonī Tonī Choppā",
+        "nombre_japones": "トニートニー・チョッパー",
+
+        "descripcion": "Tony Tony Chopper (トニートニー・チョッパー Tonī Tonī Chopā) es el médico de los Piratas de Sombrero de Paja, así como uno de los oficiales principales de la Gran Flota de Sombrero de Paja. Es un reno que comió la fruta Hito Hito de la isla de Drum. Él es el sexto miembro de la tripulación y el quinto en unirse a ella.",
+
+        "edad_actual": 17,
+        "fecha_de_nacimiento": "24 de Diciembre",
+        "origen": {
+            "zona": "Grand Line",
+            "aldea": "Drum Island"
+        },
+        "fruta_del_diablo": "Hito Hito no Mi",
+        "raza": "Reno",
+
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/5/58/Tony_Tony_Chopper_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20130629130823&path-prefix=es",
+        
+        "tripulacion": "Piratas de Sombrero de Paja (麦わらの海賊団 Mugiwara no Kaizoku-dan)",
+        "ocupacion": [
+            "Pirata",
+            "Médico"
+        ],
+        "rol_actual": "Médico de la Tripulación de Piratas de Sombrero de Paja",
+        "recompensa_actual": 1000,
+        "apodos": [
+            "Chopperemon (チョッパえもん Choppaemon)"
+        ],
+        "titulos": [
+            "El Amante de Algodón (綿あめ大好き Watame Daisuki?)",
+            "La Mascota de los Mugiwara"
+        ],
+        "afiliaciones": [
+            "Piratas de Sombrero de Paja",
+            "Gran Flota de Sombrero de Paja",
+            "Alianza Ninja-Pirata-Mink-Samurái",
+            "Piratas de Foxy"
+        ]
+    },
+    {
+
+        "nombre": "Robin",
+        "apellido": "Nico",
+        "pronunciacion": "Niko Robin",
+        "nombre_japones": "ニコ・ロビン",
+
+        "descripcion": "Nico Robin (ニコ・ロビン Niko Robin), también conocida como Niña Demonio (悪魔の子 Akuma no Ko) y La Luz de la Revolución (革命の灯 Kakumei no Tomoshibi), es la arqueóloga de los Piratas de Sombrero de Paja, así como una de los oficiales principales de la Gran Flota de Sombrero de Paja. Es el séptimo miembro de la tripulación y el sexto en unirse, haciéndolo al final del arco de Arabasta.",
+
+        "edad_actual": 30,
+        "fecha_de_nacimiento": "6 de Febrero",
+        "origen": {
+            "zona": "West Blue",
+            "aldea": "Ohara"
+        },
+        "fruta_del_diablo": "Hana Hana no Mi",
+        "raza": "Humano",
+
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Nico_Robin_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20200902132447&path-prefix=es",
+
+        "tripulacion": "Piratas de Sombrero de Paja (麦わらの海賊団 Mugiwara no Kaizoku-dan)",
+        "ocupacion": [
+            "Pirata",
+            "Arqueóloga"
+        ],
+        "rol_actual": "Arqueóloga de la Tripulación de Piratas de Sombrero de Paja",
+        "recompensa_actual": 930000000,
+        "apodos": [
+            "Miss All Sunday (ミス・オールサンデー Misu Ōrusandē",
+            "O-Robi (おロビ Orobi)"
+        ],
+        "titulos": [
+            "La Niña Demonio (悪魔の子 Akuma no Ko)",
+            "La Luz de la Revolución (革命の灯 Kakumei no Tomoshibi)"
+        ],
+        "afiliaciones": [
+            "Piratas de Sombrero de Paja",
+            "Gran Flota de Sombrero de Paja",
+            "Alianza Ninja-Pirata-Mink-Samurái",
+            "Baroque Works",
+            "Clan Ohara",
+            "Piratas de Foxy",
+            "Ejército Revolucionario"
+        ]
+    },
+    {
+
+        "nombre": "Franky",
+        "pronunciacion": "Furankī",
+        "nombre_japones": "フランキー",
+
+        "descripcion": "Franky (フランキー Furankī), apodado el Hombre de Hierro (鉄人 tetsujin), es el carpintero naval de los Piratas de Sombrero de Paja y uno de los oficiales principales de la Gran Flota de Sombrero de Paja. Es el octavo miembro de la tripulación y el séptimo en unirse, haciéndolo al final del Arco del regreso a Water 7.",
+
+        "edad_actual": 36,
+        "fecha_de_nacimiento": "9 de Marzo",
+        "origen": {
+            "zona": "South Blue",
+            "aldea": "Water 7"
+        },
+        "raza": "Cyborg",
+
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/a/a5/Franky_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20121220031313&path-prefix=es",
+
+        "tripulacion": "Piratas de Sombrero de Paja (麦わらの海賊団 Mugiwara no Kaizoku-dan)",
+        "ocupacion": [
+            "Pirata",
+            "Carpintero"
+        ],
+        "rol_actual": "Carpintero de la Tripulación de Piratas de Sombrero de Paja",
+        "recompensa_actual": 394000000,
+        "apodos": [
+            "Franosuke (フラの Furanosuke)"
+        ],
+        "titulos": [
+            "Cyborg Franky (サイボーグフランキー Saibōgu Furankī)",
+            "El Hombre de Hierro (鉄人 Tetsujin)"
+        ],
+        "afiliaciones": [
+            "Piratas de Sombrero de Paja",
+            "Gran Flota de Sombrero de Paja",
+            "Alianza Ninja-Pirata-Mink-Samurái",
+            "Familia Franky",
+            "Tom's Workers"
+        ]
+    },
+    {
+
+        "nombre": "Brook",
+        "pronunciacion": "Burukku",
+        "nombre_japones": "ブルック",
+
+        "descripcion": "Brook (ブルック Burukku), conocido como Soul King (ソウルキング Souru Kingu), es el músico de los Piratas de Sombrero de Paja, uno de sus dos espadachines y oficiales principales de la Gran Flota de Sombrero de Paja. Es el noveno miembro de la tripulación y el octavo en unirse, haciéndolo al final del arco de Thriller Bark.",
+
+        "edad_actual": 90,
+        "fecha_de_nacimiento": "3 de Abril",
+        "origen": {
+            "zona": "West Blue",
+            "aldea": "Cabos Gemelos"
+        },
+        "fruta_del_diablo": "Yomi Yomi no Mi",
+        "raza": "Skeleton",
+
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/0/06/Brook_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20200323143522&path-prefix=es",
+
+        "tripulacion": "Piratas de Sombrero de Paja (麦わらの海賊団 Mugiwara no Kaizoku-dan)",
+        "ocupacion": [
+            "Pirata",
+            "Músico"
+        ],
+        "rol_actual": "Músico de la Tripulación de Piratas de Sombrero de Paja",
+        "recompensa_actual": 383000000,
+        "apodos": [
+            "Bonekichi (ホネ吉 Honekichi)",
+            "El Esqueleto Hambriento (がしゃどくろ Gashadokuro)"
+        ],
+        "titulos": [
+            "Soul King (ソウルキング Sōru Kingu?)",
+            "Brook el Tarareador (鼻歌のブルック Hanauta no Burukku)"
+        ],
+        "afiliaciones": [
+            "Piratas de Sombrero de Paja",
+            "Gran Flota de Sombrero de Paja",
+            "Alianza Ninja-Pirata-Mink-Samurái",
+            "Piratas Rumbar"
+        ]
+    },
+    {
+
+        "nombre": "Jinbe",
+        "pronunciacion": "Jinbē",
+        "nombre_japones": "ジンベエ",
+
+        "descripcion": "Jinbe, también conocido como Jinbe el Caballero del Mar (海侠のジンベエ Kaikyō no Jinbē) es el timonel de los Piratas de Sombrero de Paja y uno de los oficiales principales de la Gran Flota de Sombrero de Paja, siendo el décimo miembro de la banda y el noveno en unirse. Es un gyojin tiburón ballena, que sirvió como antiguo capitán de los Piratas del Sol y como miembro de los Siete Señores de la Guerra del Mar.",
+
+        "edad_actual": 46,
+        "fecha_de_nacimiento": "2 de Abril",
+        "origen": {
+            "zona": "Fondo Marino",
+            "aldea": "Distrito Gyojin"
+        },
+        "raza": "Gyojin",
+
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/8/81/Jinbe_Anime_Infobox.png/revision/latest?cb=20170521165842&path-prefix=es",
+
+        "tripulacion": "Piratas de Sombrero de Paja (麦わらの海賊団 Mugiwara no Kaizoku-dan)",
+        "ocupacion": [
+            "Pirata",
+            "Timonel"
+        ],
+        "rol_actual": "Timonel de la Tripulación de Piratas de Sombrero de Paja",
+        "recompensa_actual": 1100000000,
+        "titulos": [
+            "Caballero del Mar (海侠 Kaikyō)"
+        ],
+        "afiliaciones": [
+            "Piratas de Sombrero de Paja",
+            "Piratas del Sol",
+            "Piratas de Big Mom",
+            "Reino de Ryugu",
+            "Los Siete Señores de la Guerra del Mar"
+        ]
+    }
+]

@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles/style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Aclonica&family=Comfortaa:wght@300..700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Paytone+One&display=swap"
+            rel="stylesheet">
+        <link
+            href="https://fonts.googleapis.com/css2?family=Aclonica&family=Comfortaa:wght@300..700&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap"
+            rel="stylesheet">
+        <title>One Piece API</title>
+    </head>
+    <body>
+        <header>
+            <h1>One Piece Api</h1>
+        </header>
+        <main>
+            <p id="p-header-1">Bienvenidos!</p>
+            <p id="p-header-2">Esta API fue diseñada para juntar toda la información del gran mundo de One Piece en un solo lugar.
+                <span>Con está API, podrás acceder a información sobre:</span></p>
+
+                <div id="contenedor">
+                    <section id="section-personajes">
+                        <h2>Personajes</h2>
+                        <ul id="lista-personajes">
+        
+                            <div id="get-personajes">
+                                <li>
+                                    <ul>
+                                        <li><h3>Todos los Personajes</h3></li>
+                                        <li><p>GET /personajes</p></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <ul>
+                                        <li><h3>Personaje por ID</h3></li>
+                                        <li><p>GET /personajes/:id</p></li>
+                                    </ul>
+                                </li>
+                            </div>
+        
+                            <div id="get-filtros">
+                                <li>
+                                    <ul>
+                                        <li><h3>Personaje por su Nombre</h3></li>
+                                        <li><p>GET /personajes/nombre/:nombre</p></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <ul>
+                                        <li><h3>Personaje por su Fruta</h3></li>
+                                        <li><p>POST /personajes/fruta</p></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <ul>
+                                        <li><h3>Personaje por su Zona</h3></li>
+                                        <li><p>POST /personajes/zona</p></li>
+                                    </ul>
+                                </li>
+                            </div>
+        
+                            <div id="get-orden">
+                                <li>
+                                    <ul>
+                                        <li><h3>Personajes en Orden Alfabético por Nombre</h3></li>
+                                        <li><p>GET /personajes/ordenados/alfabeto</p></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <ul>
+                                        <li><h3>Personajes en Orden por Edades</h3></li>
+                                        <li><p>GET /personajes/ordenados/edades</p></li>
+                                    </ul>
+                                </li>
+                            </div>
+        
+                            <div id="get-modificaciones">
+                                <li>
+                                    <ul>
+                                        <li><h3>Eliminar un Personaje</h3></li>
+                                        <li><p>DELETE /personajes/:id</p></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <ul>
+                                        <li><h3>Modificar un Personaje</h3></li>
+                                        <li><p>PUT /personajes/:nombre</p></li>
+                                    </ul>
+                                </li>
+                            </div>
+                        </ul>
+                    </section>
+                    <section id="section-frutas">
+                        <h2>Frutas del Diablo</h2>
+                        <ul id="lista-frutas">
+        
+                            <div id="get-personajes">
+                                <li>
+                                    <ul>
+                                        <li><h3>Todas las Frutas</h3></li>
+                                        <li><p>GET /frutas</p></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <ul>
+                                        <li><h3>Fruta por ID</h3></li>
+                                        <li><p>GET frutas/:id</p></li>
+                                    </ul>
+                                </li>
+                            </div>
+        
+                            <div id="get-filtros">
+                                <li>
+                                    <ul>
+                                        <li><h3>Fruta por su Nombre</h3></li>
+                                        <li><p>POST frutas/nombre</p></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <ul>
+                                        <li><h3>Frutas por su Tipo</h3></li>
+                                        <li><p>POST /frutas/tipos/:tipo</p></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <ul>
+                                        <li><h3>Fruta por condición de Consumida</h3></li>
+                                        <li><p>POST /frutas/consumida</p></li>
+                                    </ul>
+                                </li>
+                            </div>
+        
+                            <div id="get-orden">
+                                <li>
+                                    <ul>
+                                        <li><h3>Frutas en Orden Alfabético por Nombre</h3></li>
+                                        <li><p>GET /frutas/ordenados/alfabeto</p></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <ul>
+                                        <li><h3>Frutas en Orden por estado de Consumida</h3></li>
+                                        <li><p>GET /personajes/ordenados/edades</p></li>
+                                    </ul>
+                                </li>
+                            </div>
+        
+                            <div id="get-modificaciones">
+                                <li>
+                                    <ul>
+                                        <li><h3>Eliminar una Fruta</h3></li>
+                                        <li><p>DELETE /frutas/:id</p></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <ul>
+                                        <li><h3>Modificar una Fruta</h3></li>
+                                        <li><p>PUT /frutas/:id</p></li>
+                                    </ul>
+                                </li>
+                            </div>
+                        </ul>
+                    </section>
+                </div>
+        </main>
+
+        <footer>
+            <ul>
+                <div id="left">
+                    <li>Aplicaciones Híbridas</li>
+                    <li>Camila Marcos Galban</li>
+                </div>
+                <div id="middle">
+                    <li>Agostina Michelis</li>
+                </div>
+                <div id="right">
+                    <li>DWN4AV</li>
+                    <li>2024</li>
+                </div>
+            </ul>
+        </footer>
+
+    </body>
+</html>

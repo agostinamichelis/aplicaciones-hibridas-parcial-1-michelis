@@ -1,0 +1,346 @@
+[
+    {
+        "nombre_fruta": "Gomu Gomu",
+        "tipo": "Paramecia",
+        "poder_fruta": "Permite al consumidor transformarse en la encarnación del legendario Dios del Sol Nika y obtener así un cuerpo con las propiedades de la goma.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Monkey D. Luffy",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/9/9a/Fruta_Gomu_Gomu.png/revision/latest?cb=20190421141553&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Bara Bara",
+        "tipo": "Paramecia",
+        "poder_fruta": "Otorga al consumidor la capacidad de dividir su cuerpo en pedazos y controlar dichas piezas como desee, en su mayoría levitando lejos de su cuerpo principal, lo que convierte al consumidor en un humano separación.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Buggy The Clown",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/6/63/Fruta_Bara_Bara.png/revision/latest?cb=20201108143132&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Awa Awa",
+        "tipo": "Paramecia",
+        "poder_fruta": "Permite al consumidor producir y controlar las burbujas de jabón transformándole en un humano jabón.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Kalifa",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/c/c4/Fruta_Awa_Awa.png/revision/latest?cb=20220818152916&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Ope Ope",
+        "tipo": "Paramecia",
+        "poder_fruta": "Da la capacidad a su consumidor de crear una sala de operaciones donde, dentro de este espacio, tiene un control absoluto sobre la ubicación y la orientación de todo lo que se encuentre en este área.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Trafalgar D. Water Law",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/2/27/Fruta_Ope_Ope.png/revision/latest?cb=20210410094621&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Mero Mero",
+        "tipo": "Paramecia",
+        "poder_fruta": "Permite realizar una serie de ataques que implican pensamientos de lujuria o perversión hacia el consumidor para transformar a los oponentes en piedra.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Boa Hancock",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/b/bb/Fruta_Mero_Mero.png/revision/latest?cb=20230307152651&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Ito Ito",
+        "tipo": "Paramecia",
+        "poder_fruta": "Permite a quien la consuma generar y manipular los hilos, transformándolo en un humano hilo.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Donquixote Doflamingo",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/0/0e/Fruta_Ito_Ito.png/revision/latest?cb=20151220160139&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Hana Hana",
+        "tipo": "Paramecia",
+        "poder_fruta": "Brinda a su consumidor la capacidad de florecer cualquier parte de su cuerpo en cualquier superficie; también puede sumar muchas partes entre sí para crear una extremidad mayor, o generar nuevas estructuras como cadenas de brazos, alas, entre otras.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Nico Robin",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/3/3a/Fruta_Hana_Hana.png/revision/latest?cb=20200912175648&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Kage Kage",
+        "tipo": "Paramecia",
+        "poder_fruta": "Otorga al consumidor la habilidad de manifestar y controlar las sombras así como otorgarles una forma tangible y física, convirtiéndole en un señor de las sombras.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Gecko Moria",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/0/0d/Fruta_Kage_Kage.png/revision/latest?cb=20200912175740&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Yomi Yomi",
+        "tipo": "Paramecia",
+        "poder_fruta": "Mejora el alma del consumidor hasta el punto que puede volver a la vida luego de morir una vez, pudiendo permanecer vivo hasta que su cuerpo sea lo suficientemente dañado; también le permite usar distintas habilidades basadas en el uso del alma.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Brook",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/4/45/Fruta_Yomi_Yomi.png/revision/latest?cb=20200912175839&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Fude Fude",
+        "tipo": "Paramecia",
+        "poder_fruta": "Permite a su consumidor generar tinta[4] y, con ella, dar vida a dibujos que cree.",
+        "consumida_actualmente": false,
+        "consumidor_anterior": "Kurozumi Kanjuro",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/8/83/Fruta_Fude_Fude.png/revision/latest?cb=20210530081813&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Doru Doru",
+        "tipo": "Paramecia",
+        "poder_fruta": "Hace que el cuerpo de quien se la coma pueda crear cantidades ilimitadas de cera y fabricar objetos con ella, convirtiéndole así en un humano vela.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Galdino",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/4/4e/Fruta_Doru_Doru.png/revision/latest?cb=20200509115818&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Baku Baku",
+        "tipo": "Paramecia",
+        "poder_fruta": "Permite al consumidor comerse cualquier cosa y transformar su cuerpo en aquello que haya comido.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Wapol",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/4/42/Fruta_Baku_Baku.png/revision/latest?cb=20200509115717&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Sube Sube",
+        "tipo": "Paramecia",
+        "poder_fruta": "Convierte la piel de quien la consume en tersa y lisa, lo que causa que los impactos, pinchazos o cortes se deslicen cuando entran en contacto con esta, protegiendo al usuario de casi cualquier golpe.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Alvida",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/1/16/Fruta_Sube_Sube.png/revision/latest?cb=20200912220308&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Kiro Kiro",
+        "tipo": "Paramecia",
+        "poder_fruta": "permite a quien se la coma cambiar a voluntad su peso corporal, de uno a 10.000 kilos, sin aumentar su volumen corporal, es decir, sin engordar, solamente aumenta el peso.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Mikita",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Fruta_Kiro_Kiro.png/revision/latest?cb=20210204084514&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Bomu Bomu",
+        "tipo": "Paramecia",
+        "poder_fruta": "Hace que quien se la coma pueda ser capaz detonar cualquier parte de su cuerpo, incluyendo, pelo, mocos y aliento, sin causarle ningún daño al consumidor convirtiéndolo en un humano bomba.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Gem",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/f/fd/Fruta_Bomu_Bomu.png/revision/latest?cb=20210204085205&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Jiki Jiki",
+        "tipo": "Paramecia",
+        "poder_fruta": "Permite a su consumidor manipular campos magnéticos.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Eustass Kid",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/9/96/Fruta_Jiki_Jiki.png/revision/latest?cb=20220525144528&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Mochi Mochi",
+        "tipo": "Paramecia",
+        "poder_fruta": "Permite al consumidor generar, manipular y transformarse en mochi.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Charlotte Katakuri",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/1/1d/Fruta_Mochi_Mochi.png/revision/latest?cb=20220525144459&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Uta Uta",
+        "tipo": "Paramecia",
+        "poder_fruta": "Permite a su consumidor transportar a todo aquel que escuche su canto a una dimensión alterna cuya realidad puede manipular a placer.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Uta",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/2/2b/Fruta_Uta_Uta.png/revision/latest?cb=20220807203311&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Horo Horo",
+        "tipo": "Paramecia",
+        "poder_fruta": "Otorga la habilidad de generar fantasmas, convirtiendo a quien la consume en un humano espíritu.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Perona",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/5/5a/Fruta_Horo_Horo_Infobox.png/revision/latest?cb=20230902200406&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Nikyu Nikyu",
+        "tipo": "Paramecia",
+        "poder_fruta": "Le otorga a quien la coma la habilidad de repeler cualquier cosa que toque, esto se manifiesta de forma física con almohadillas en las palmas de las manos convirtiéndole en un humano zarpa.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Bartholomew Kuma",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/f/f7/Fruta_Nikyu_Nikyu.png/revision/latest?cb=20231029202923&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Soru Soru",
+        "tipo": "Paramecia",
+        "poder_fruta": "Otorga la habilidad de manipular las almas de las personas.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Charlotte Linlin",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/4/47/Fruta_Soru_Soru.png/revision/latest?cb=20170521092844&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Mane Mane",
+        "tipo": "Paramecia",
+        "poder_fruta": "Otorga a su consumidor la capacidad de copiar el físico de la persona que toque, convirtiéndolo en un humano imitador.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Bentham",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/b/ba/Fruta_Mane_Mane.png/revision/latest?cb=20210309112411&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Bari Bari",
+        "tipo": "Paramecia",
+        "poder_fruta": "Permite a quien la coma formar barreras para defenderse o atacar, transformando a su consumidor en un humano barrera.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Bartolomeo",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/b/b0/Bari_Bari_no_Mi.png/revision/latest?cb=20140330115833&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Gura Gura",
+        "tipo": "Paramecia",
+        "poder_fruta": "Permite al consumidor generar vibraciones, lo que lo convierte en un humano temblor.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Marshall D. Teach",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/0/07/Fruta_Gura_Gura.png/revision/latest?cb=20200116211342&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Suke Suke",
+        "tipo": "Paramecia",
+        "poder_fruta": "Permite hacerse invisible a su consumidor a voluntad o hacer invisible cualquier cosa que toque, convirtiéndole en un humano transparante.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Shiryu",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/8/86/Fruta_Suke_Suke.png/revision/latest?cb=20200113230447&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Nagi Nagi",
+        "tipo": "Paramecia",
+        "poder_fruta": "Otorga la habilidad de eliminar cualquier sonido a quien la come, por tanto convierte a su consumidor en un humano silencio.",
+        "consumida_actualmente": false,
+        "consumidor_anterior": "Donquixote Rosinante",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/a/a0/Nagi_Nagi_no_Mi.png/revision/latest?cb=20150803094415&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Kuri Kuri",
+        "tipo": "Paramecia",
+        "poder_fruta": "Permite a su consumidor producir y manipular la crema a su antojo convirtiéndole en un humano crema.",
+        "consumida_actualmente": false,
+        "consumidor_anterior": "Charlotte Opera",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/e/e5/Fruta_Kuri_Kuri.png/revision/latest?cb=20171029091348&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Toki Toki",
+        "tipo": "Paramecia",
+        "poder_fruta": "Permite al consumidor viajar en el tiempo hacia el futuro y enviar a otros en la misma dirección temporal.",
+        "consumida_actualmente": false,
+        "consumidor_anterior": "Kozuki Toki",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/5/58/Fruta_Toki_Toki.png/revision/latest?cb=20210221085233&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Gutsu Gutsu",
+        "tipo": "Paramecia",
+        "poder_fruta": "Permite a su consumidor manipular los metales como la plata, convirtiéndole en un humano horno explosivo.",
+        "consumida_actualmente": false,
+        "consumidor_anterior": "Bill",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/6/66/Fruta_Gutsu_Gutsu.png/revision/latest?cb=20160717231812&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Yami Yami",
+        "tipo": "Logia",
+        "poder_fruta": "Permite al consumidor crear y controlar la oscuridad a su voluntad, lo que hace al consumidor un humano oscuridad.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Marshall D. Teach",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/2/20/Fruta_Yami_Yami.png/revision/latest?cb=20161002192842&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Mera Mera",
+        "tipo": "Logia",
+        "poder_fruta": "Permite al consumidor transformarse en fuego, crearlo y controlarlo a voluntad.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Sabo",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/4/49/Fruta_Mera_Mera.png/revision/latest?cb=20140203143558&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Moku Moku",
+        "tipo": "Logia",
+        "poder_fruta": "Permite al consumidor transformarse en humo, crearlo y controlarlo a voluntad.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Smoker",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/d/d6/Fruta_Moku_Moku.png/revision/latest?cb=20200912220135&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Suna Suna",
+        "tipo": "Logia",
+        "poder_fruta": "Permite a su consumidor producir, manipular y transformarse en arena a voluntad convirtiéndole así en un humano arena.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Crocodile",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/7/78/Fruta_Suna_Suna.png/revision/latest?cb=20210901173741&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Goro Goro",
+        "tipo": "Logia",
+        "poder_fruta": "Permite al consumidor transformarse en electricidad, crearla y controlarla a voluntad, lo que lo convierte en un humano rayo.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Enel",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/e/ef/Fruta_Goro_Goro.png/revision/latest?cb=20230902200150&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Yuki Yuki",
+        "tipo": "Logia",
+        "poder_fruta": "Permite al consumidor crear y controlar la nieve a voluntad, convirtiendo a su consumidor en un humano nieve.",
+        "consumida_actualmente": true,
+        "consumidor_anterior": "Monet",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/9/96/Yuki_Yuki_no_Mi.png/revision/latest?cb=20240227114532&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Ushi Ushi: modelo jirafa",
+        "tipo": "Zoan",
+        "poder_fruta": "Permite a su consumidor transformarse en una forma de jirafa híbrida y una forma de jirafa completa, lo que lo convierte en un humano jirafa.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Kaku",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/a/a0/Fruta_Ushi_Ushi_Modelo_Jirafa.png/revision/latest?cb=20220818152904&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Sara Sara: modelo axolote",
+        "tipo": "Zoan",
+        "poder_fruta": "Permite a su consumidor convertirse en un axolote (o ajolote) a completa voluntad.",
+        "consumida_actualmente": false,
+        "consumidor_anterior": "Smiley",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/4/4c/Fruta_Sara_Sara_Modelo_Axolote.png/revision/latest?cb=20130630130059&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Hito Hito",
+        "tipo": "Zoan",
+        "poder_fruta": "Hace que su consumidor sea capaz de transformarse en una forma humana híbrida y una forma humana completa.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Tony Tony Chopper",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/d/d2/Fruta_Hito_Hito.png/revision/latest?cb=20191231141018&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Hebi Hebi: modelo yamata-no-orochi",
+        "tipo": "Zoan",
+        "poder_fruta": "Otorga el poder de transformarse parcial o totalmente en la Yamata-no-Orochi",
+        "consumida_actualmente": false,
+        "consumidor_anterior": "Kurozumi Orochi",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/2/26/Fruta_Hebi_Hebi_Modelo_Yamata-no-Orochi.png/revision/latest?cb=20210307104107&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Ushi Ushi: modelo bisonte",
+        "tipo": "Zoan",
+        "poder_fruta": "Permite a su consumidor convertirse total o parcialmente en un bisonte.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Dalton",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/3/31/Fruta_Ushi_Ushi_modelo_bisonte.png/revision/latest?cb=20210901174518&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Uo Uo: modelo seiryu",
+        "tipo": "Zoan",
+        "poder_fruta": "Permite a su consumidor transformarse total o parcialmente en un dragón oriental.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Kaidou",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/d/de/Fruta_Uo_Uo_modelo_seiryu.png/revision/latest?cb=20211204205818&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Inu Inu: modelo Okuchi no Makami",
+        "tipo": "Zoan",
+        "poder_fruta": "Permite a su consumidor convertirse parcial o totalmente en una deidad lobo.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Yamato",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/c/cc/Fruta_Inu_Inu_modelo_Okuchi_no_Makami.png/revision/latest?cb=20221223144642&path-prefix=es"
+    },
+    {
+        "nombre_fruta": "Neko Neko: modelo leopardo",
+        "tipo": "Zoan",
+        "poder_fruta": "Hace que su consumidor sea capaz de transformarse en una forma de leopardo híbrida y una forma de leopardo completa.",
+        "consumida_actualmente": true,
+        "consumidor_actual": "Rob Lucci",
+        "imagen": "https://static.wikia.nocookie.net/onepiece/images/f/f3/Fruta_Neko_Neko_modelo_leopardo.png/revision/latest?cb=20230307152315&path-prefix=es"
+    }
+]
